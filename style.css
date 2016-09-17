@@ -1,0 +1,51 @@
+html, body {
+  background-color: #4b367c;
+  height: 100%;
+}
+
+div#box {
+  background-color: #fff;
+  margin: 20px auto;
+  width: 70%;
+  height: 100%;
+}
+
+header {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30pt;
+  padding: 10px 20px;
+  border-width: 0px 0px 10px 0px;
+  border-style: solid;
+}
+
+table {
+  background-color: #fff;
+}
+
+tr {
+  height: 100px;
+  border-width: 2px 0px 2px 0px;
+  border-style: solid;
+}
+
+img.logo {
+  width: 100%;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+td.logo {
+  width: 10%;
+}
+
+td.name {
+  width: 20%;
+  font-family: 'Crete Round', 'Times New Roman', serif;
+  font-size: 14pt;
+}
+
+td.status {
+  font-family: 'Source Sans Pro', Arial;
+  font-size: 14pt;
+  padding: 10px;
+}
